@@ -12,6 +12,7 @@ public class Ejercicio9T3 {
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduce un numero: ");
+      
         double n = sc.nextDouble();
         double s = 1;
         double a = 1;
