@@ -8,8 +8,9 @@ public class Ejercicio3T3 {
 
     public static void main(String[] args) {
    
-     Random x = new Random();
+        Random x = new Random();
         int num;
+        
         do {
             num = x.nextInt(11);
             System.out.println(num);
